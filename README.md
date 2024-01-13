@@ -8,12 +8,12 @@ This repository contains 3 files. They are:
 
 ## model_training.py
   This program does the training part for digit recognition.
-  Dataset              :-   MNIST (from tensorflow.keras.datasets)
-  Neuron model         :-   CNN (convolutional neural network)
-  Activation Function  :-   RELU, softmax
-  Epochs               =    10
-  Accuracy             =    
-  Total Loss           =    
+  <P>Dataset              :-   MNIST (from tensorflow.keras.datasets)</P>
+  <P>Neuron model         :-   CNN (convolutional neural network)</P>
+  <P>Activation Function  :-   RELU, softmax</P>
+  <P>Epochs               =    10</P>
+  <P>Accuracy             =    0.649399995803833</P>
+  <P>Total Loss           =    1.0463734865188599</P>
 
   After running this program, DIGIT_MNIST_model.h5 is generated.
 
